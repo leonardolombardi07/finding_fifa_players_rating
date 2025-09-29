@@ -1,0 +1,15 @@
+[project]
+name = "fifa-players-rating"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "certifi>=2025.8.3",
+    "matplotlib>=3.7.5",
+    "numpy>=1.24.4",
+    "pandas>=2.0.3",
+    "requests>=2.32.4",
+    "scipy>=1.10.1",
+    "urllib3>=2.2.3",
+]

@@ -1,0 +1,264 @@
+[
+  {
+    "name": "GK - Overall Rating",
+    "position_short_label": "GK",
+    "varying_stats_names": [
+      "gkDiving",
+      "gkHandling",
+      "gkKicking",
+      "gkPositioning",
+      "gkReflexes"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "gkDiving": 0.24819137941384348,
+      "gkHandling": 0.16950558960550594,
+      "gkKicking": 0.03654154601922742,
+      "gkPositioning": 0.2230915751051761,
+      "gkReflexes": 0.32266990985624716
+    },
+    "mean_error": 0.006879309154923846
+  },
+  {
+    "name": "CB - Overall Rating",
+    "position_short_label": "CB",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 0.015808367375872868,
+      "sho": 4.8257592648582664e-18,
+      "pas": 0.018796245378391384,
+      "dri": 0.014132072095647827,
+      "def": 0.7766390234820612,
+      "phy": 0.17462429166802684
+    },
+    "mean_error": 0.007514098017356475
+  },
+  {
+    "name": "LB - Overall Rating",
+    "position_short_label": "LB",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 0.3034015197783084,
+      "sho": 0.0,
+      "pas": 7.012924583497253e-17,
+      "dri": 0.27184338114979734,
+      "def": 0.40225472286523684,
+      "phy": 0.022500376206657277
+    },
+    "mean_error": 0.02484688292931992
+  },
+  {
+    "name": "RB - Overall Rating",
+    "position_short_label": "RB",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 0.32200946909588546,
+      "sho": 4.982472009360942e-17,
+      "pas": 6.15369114214822e-18,
+      "dri": 0.12276257266572736,
+      "def": 0.546756942124066,
+      "phy": 0.008471016114321031
+    },
+    "mean_error": 0.025275904307031142
+  },
+  {
+    "name": "CDM - Overall Rating",
+    "position_short_label": "CDM",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 2.4728245151450775e-17,
+      "sho": 0.0,
+      "pas": 6.819613413986089e-17,
+      "dri": 0.31627627104391504,
+      "def": 0.31210952199491404,
+      "phy": 0.37161420696117087
+    },
+    "mean_error": 0.027734238556864327
+  },
+  {
+    "name": "CM - Overall Rating",
+    "position_short_label": "CM",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 1.5757403130265134e-17,
+      "sho": 3.4032600935251862e-18,
+      "pas": 0.3576729695223546,
+      "dri": 0.5257621590346796,
+      "def": 0.017745121899354458,
+      "phy": 0.09881974954361127
+    },
+    "mean_error": 0.01667558203311642
+  },
+  {
+    "name": "CAM - Overall Rating",
+    "position_short_label": "CAM",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 0.045162158904686556,
+      "sho": 0.15620738896157518,
+      "pas": 0.2676668503650734,
+      "dri": 0.5234237846085422,
+      "def": 1.26680979239526e-20,
+      "phy": 0.007539817160122546
+    },
+    "mean_error": 0.011477523587231106
+  },
+  {
+    "name": "LW - Overall Rating",
+    "position_short_label": "LW",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 0.12440184450493197,
+      "sho": 0.22605769099829384,
+      "pas": 0.21812845138117135,
+      "dri": 0.42632983222233417,
+      "def": 6.6237976475286294e-18,
+      "phy": 0.005082180893268775
+    },
+    "mean_error": 0.008582564255907421
+  },
+  {
+    "name": "LM - Overall Rating",
+    "position_short_label": "LM",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 0.1414759785678951,
+      "sho": 0.041151026087929345,
+      "pas": 0.3441262179952892,
+      "dri": 0.4511996549179421,
+      "def": 4.8906421552208865e-18,
+      "phy": 0.022047122430944366
+    },
+    "mean_error": 0.010813168890169492
+  },
+  {
+    "name": "RW - Overall Rating",
+    "position_short_label": "RW",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 0.1121894683834186,
+      "sho": 0.2133816015748314,
+      "pas": 0.1905096367036549,
+      "dri": 0.4700974832298609,
+      "def": 1.078607632531261e-18,
+      "phy": 0.013821810108234193
+    },
+    "mean_error": 0.009146913916065005
+  },
+  {
+    "name": "RM - Overall Rating",
+    "position_short_label": "RM",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 0.14783526312609704,
+      "sho": 0.04291116588449201,
+      "pas": 0.28489286794452373,
+      "dri": 0.4795611899034916,
+      "def": 1.5365293912396185e-18,
+      "phy": 0.04479951314139568
+    },
+    "mean_error": 0.011760161750909139
+  },
+  {
+    "name": "ST - Overall Rating",
+    "position_short_label": "ST",
+    "varying_stats_names": [
+      "pac",
+      "sho",
+      "pas",
+      "dri",
+      "def",
+      "phy"
+    ],
+    "target_stat_name": "overallRating",
+    "optimized_weights": {
+      "pac": 0.05550061473110265,
+      "sho": 0.7346177935267352,
+      "pas": 0.0,
+      "dri": 0.1178597748574321,
+      "def": 6.288372600415924e-18,
+      "phy": 0.09202181688473007
+    },
+    "mean_error": 0.01304132492610208
+  }
+]
